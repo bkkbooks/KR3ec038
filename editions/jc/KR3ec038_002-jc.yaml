@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3ec038/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷柏生用破血炙用止血生用辛平破血通經治癥瘕淋結炙用辛溫止血治腸風脫肛生石上拳攣如雞足俗呼萬年松凡使鹽水煮半日井水煮半日焙用
+  hash: sha256:0338c7a7856ca2b5c28f5041e9f6a92716e9d97c689c2ca4ef14335b7c76e4a5
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec038_jc_NaN-d8.d87.h1s1}
+  - {type: 'tls:div-end', offset: 61, content: '', id: KR3ec038_jc_000-d8d87}
+  - {type: 'tls:div-start', offset: 61, content: '', id: KR3ec038_jc_000-d8d88, level: 2, head_text: 䕡茹}
+metadata:
+  title: 本草備要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec038.xml
+hash: sha256:09292d03c81c244426f8cb0a723f0efbd25ea07e33c6c9ffb3e60f4abcb10cd4
